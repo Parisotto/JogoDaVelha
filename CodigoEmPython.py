@@ -2,6 +2,8 @@
 # AUTOR: Edson Luiz Parisotto
 # Professor de programação
 # www.parisotto.net
+# modificado por ... em (data)
+# 
 casas = []
 i = 1
 while i <= 9:
